@@ -1,0 +1,4 @@
+[submodule "source/_posts/blogs"]
+	path = source/_posts/blogs
+	url = git@github.com:hujinrun-github/blogs.git
+	branch = main
