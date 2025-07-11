@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hujinrun`s Blog</title>
+  
+  <subtitle>Hujinrun</subtitle>
+  <link href="https://github.com/hujinrun-github/hujinrun-github.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/hujinrun-github/hujinrun-github.github.io/"/>
+  <updated>2025-07-11T10:24:35.689Z</updated>
+  <id>https://github.com/hujinrun-github/hujinrun-github.github.io/</id>
+  
+  <author>
+    <name>Hujinrun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>linux权限相关内容详细介绍</title>
+    <link href="https://github.com/hujinrun-github/hujinrun-github.github.io/linux/linux-quan-xian-xi-tong-jie-shao.html"/>
+    <id>https://github.com/hujinrun-github/hujinrun-github.github.io/linux/linux-quan-xian-xi-tong-jie-shao.html</id>
+    <published>2025-07-07T13:17:35.000Z</published>
+    <updated>2025-07-11T10:24:35.689Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-对linux的介绍&quot;&gt;&lt;a href=&quot;#1-对linux的介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://github.com/hujinrun-github/hujinrun-github.github.io/categories/Linux/"/>
+    
+    
+    <category term="linux" scheme="https://github.com/hujinrun-github/hujinrun-github.github.io/tags/linux/"/>
+    
+    <category term="ext3文件系统" scheme="https://github.com/hujinrun-github/hujinrun-github.github.io/tags/ext3%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+</feed>
